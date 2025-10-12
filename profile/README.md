@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/yrg0jtM1yfmgiG0tU6f7L7ZCkxWeh5k_y9FqSesqvObojgdswxT-pNk1xdsIpP4ThwDJ" alt="Vocera Device Inventory Banner" width="100%" />
+  <img src="https://play-lh.googleusercontent.com/yrg0jtM1yfmgiG0tU6f7L7ZCkxWeh5k_y9FqSesqvObojgdswxT-pNk1xdsIpP4ThwDJ" alt="Vocera Device Inventory Banner" width="10%" />
 </p>
 
 <h1 align="center">📋 Vocera Device Inventory (Windows)</h1>
